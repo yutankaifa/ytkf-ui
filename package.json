@@ -1,5 +1,5 @@
 {
-  "name": "sbts",
+  "name": "ytkf-ui",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -47,6 +47,5 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/yutankaifa"
-  },
-  "name": "yutankaifa/ytkf-ui"
+  }
 }
