@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import Button, { ButtonProps } from "../Button";
+import Button, { ButtonProps } from "../index";
 
 const Example: FC<ButtonProps> = ({
   disabled = false,
