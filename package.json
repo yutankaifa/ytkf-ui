@@ -46,7 +46,7 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@{USER_NAME}"
+    "registry": "https://npm.pkg.github.com/yutankaifa"
   },
-  "name": "@{user_name}/{repo-name}"
+  "name": "yutankaifa/ytkf-ui"
 }
