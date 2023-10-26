@@ -46,6 +46,6 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-    "yutankaifa:registry": "https://npm.pkg.github.com"
+    "@yutankaifa:registry": "https://npm.pkg.github.com"
   }
 }
