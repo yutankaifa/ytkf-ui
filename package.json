@@ -17,6 +17,10 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutankaifa/ytkf-ui.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
